@@ -52,7 +52,7 @@ Step 3: Update the ticket properties → Set SLA: Sev-A (1 hour, 24/7) → Assig
 
 
 <p>
-  <img src="images/step5-complete-ticket-jane.png" height="80%" width="80%" alt="Step 5 - Complete Ticket as Jane"/>
+  <img src="images/step5-complete-ticket-jane.png" height="80%" width="80%" alt="Step 4 - Complete Ticket as Jane"/>
 </p>
 <p>
 Step 4: Log in as Agent Jane → Work and complete the Online Banking outage ticket to resolution.
@@ -61,7 +61,7 @@ Step 4: Log in as Agent Jane → Work and complete the Online Banking outage tic
 <br />
 
 <p>
-  <img src="images/step6-create-ticket-adobe.png" height="80%" width="80%" alt="Step 6 - Create Adobe Ticket"/>
+  <img src="images/step6-create-ticket-adobe.png" height="80%" width="80%" alt="Step 5 - Create Adobe Ticket"/>
 </p>
 <p>
 Step 5: As an end-user, create a new ticket → Issue: "Accounting department needs Adobe upgrade, broken."
@@ -70,7 +70,7 @@ Step 5: As an end-user, create a new ticket → Issue: "Accounting department ne
 <br />
 
 <p>
-  <img src="images/step7-agent-observe-adobe.png" height="80%" width="80%" alt="Step 7 - Observe Adobe Ticket Properties"/>
+  <img src="images/step7-agent-observe-adobe.png" height="80%" width="80%" alt="Step 6 - Observe Adobe Ticket Properties"/>
 </p>
 <p>
 Step 6: As Help Desk Agent (John), review the ticket’s Priority, Department, SLA, and Assigned To properties.
@@ -79,7 +79,7 @@ Step 6: As Help Desk Agent (John), review the ticket’s Priority, Department, S
 <br />
 
 <p>
-  <img src="images/step8-set-properties-adobe.png" height="80%" width="80%" alt="Step 8 - Set Adobe Ticket Properties"/>
+  <img src="images/step8-set-properties-adobe.png" height="80%" width="80%" alt="Step 7 - Set Adobe Ticket Properties"/>
 </p>
 <p>
 Step 7: Update ticket properties → Set SLA: Sev-B (4 hours, 24/7) → Assign Department: Support.
@@ -88,7 +88,7 @@ Step 7: Update ticket properties → Set SLA: Sev-B (4 hours, 24/7) → Assign D
 <br />
 
 <p>
-  <img src="images/step9-complete-ticket-john.png" height="80%" width="80%" alt="Step 9 - Complete Ticket as John"/>
+  <img src="images/step9-complete-ticket-john.png" height="80%" width="80%" alt="Step 8 - Complete Ticket as John"/>
 </p>
 <p>
 Step 8: Work and complete the Adobe upgrade ticket as Agent John.
@@ -97,7 +97,7 @@ Step 8: Work and complete the Adobe upgrade ticket as Agent John.
 <br />
 
 <p>
-  <img src="images/step10-create-ticket-cfo.png" height="80%" width="80%" alt="Step 10 - Create CFO Ticket"/>
+  <img src="images/step10-create-ticket-cfo.png" height="80%" width="80%" alt="Step 9 - Create CFO Ticket"/>
 </p>
 <p>
 Step 9: As an end-user, create a new ticket → Issue: "CFO’s laptop will no longer turn on."
@@ -106,7 +106,7 @@ Step 9: As an end-user, create a new ticket → Issue: "CFO’s laptop will no l
 <br />
 
 <p>
-  <img src="images/step11-agent-observe-cfo.png" height="80%" width="80%" alt="Step 11 - Observe CFO Ticket Properties"/>
+  <img src="images/step11-agent-observe-cfo.png" height="80%" width="80%" alt="Step 10 - Observe CFO Ticket Properties"/>
 </p>
 <p>
 Step 10: As Help Desk Agent (John), review ticket details including Priority, Department, SLA, and Assigned To.
@@ -115,7 +115,7 @@ Step 10: As Help Desk Agent (John), review ticket details including Priority, De
 <br />
 
 <p>
-  <img src="images/step12-set-properties-cfo.png" height="80%" width="80%" alt="Step 12 - Set CFO Ticket Properties"/>
+  <img src="images/step12-set-properties-cfo.png" height="80%" width="80%" alt="Step 11 - Set CFO Ticket Properties"/>
 </p>
 <p>
 Step 11: Update ticket properties → Set SLA: Sev-B (4 hours, 24/7) → Assign Department: Support.
@@ -124,7 +124,7 @@ Step 11: Update ticket properties → Set SLA: Sev-B (4 hours, 24/7) → Assign 
 <br />
 
 <p>
-  <img src="images/step13-complete-ticket-cfo.png" height="80%" width="80%" alt="Step 13 - Complete CFO Ticket"/>
+  <img src="images/step13-complete-ticket-cfo.png" height="80%" width="80%" alt="Step 12 - Complete CFO Ticket"/>
 </p>
 <p>
 Step 12: Work on and complete the CFO laptop ticket as Agent John, ensuring issue resolution and confirmation of closure.
